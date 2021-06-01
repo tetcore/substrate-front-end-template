@@ -1,7 +1,7 @@
 # Tetcore Front End Template
 
 This template allows you to create a front-end application that connects to a
-[Substrate](https://github.com/paritytech/substrate) node back-end with minimal
+[Tetcore](https://github.com/tetcoin/tetcore) node back-end with minimal
 configuration. To learn about Substrate itself, visit the
 [Substrate Developer Hub](https://substrate.dev).
 
